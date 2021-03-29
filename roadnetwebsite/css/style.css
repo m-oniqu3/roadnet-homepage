@@ -3,7 +3,6 @@
     transform: perspective(75em) rotateY(-20deg);}
 
 
-
 body{
     overflow-x:  hidden;
     margin: 0;
@@ -13,3 +12,11 @@ body{
     box-sizing: border-box;
 }
 
+.road-image {
+    background: url(/images/road2.jpg) no-repeat center; 
+    background-size: cover;
+    height: 100%;    
+  }
+  
+  .back {
+      background-color:#eee;}
