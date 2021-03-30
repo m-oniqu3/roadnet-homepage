@@ -17,6 +17,24 @@ body{
     background-size: cover;
     height: 100%;    
   }
-  
+ .black{
+     background-color: black;
+ } 
   .back {
       background-color:#eee;}
+
+.footer{
+    list-style:none;
+}
+
+.footer a{
+    color:white;
+    margin: 0;
+}
+
+.footer a:active,.footer a:focus,.footer a:hover
+{
+  color:rgb(6, 124, 35);
+  text-decoration:none;
+}
+
